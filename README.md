@@ -3,8 +3,6 @@
 ### Shaoyang Dong 👨‍💻
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dsy2008bob)](https://twitter.com/dsy2008bob)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dsy2008bob/)](https://instagram.com/dsy2008bob)
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaoyang-dong-8105b839/)](https://www.linkedin.com/in/shaoyang-dong-8105b839//)
 
 
